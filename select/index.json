@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "福山雅治 - 家族になろうよ (Full ver.)",
+  "base_artist": "福山雅治",
+  "createdAt": "2025-12-25T02:14:55.924610Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "家族になろうよ",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_01_家族になろうよ_福山_雅治.txt"
+    }
+  ]
+}
